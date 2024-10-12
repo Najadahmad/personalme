@@ -1,0 +1,2 @@
+# personalme
+ini hanyalah belajar
