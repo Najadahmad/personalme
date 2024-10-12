@@ -1,2 +1,2 @@
 # personalme
-ini hanyalah belajar
+
